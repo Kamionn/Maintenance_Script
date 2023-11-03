@@ -1,5 +1,6 @@
 Config = {}
 Config.Locale = "en" -- fr/en
+Config.Debug = false -- True / false
 
 Config.Status = false -- True = Maintenance / false = not Maintenance
 Config.AllowedIDs = {   
